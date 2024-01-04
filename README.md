@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Nasser</h1>
-<h3 align="center">A passionate android developer from Egypt</h3>
+<h3 align="center">A Passionate Android Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrnassersaad&label=Profile%20views&color=0e75b6&style=flat" alt="amrnassersaad" /> </p>
+![I'm Native Android Developer (Kotlin).](https://camo.githubusercontent.com/893b90dbb78a8226c44ae9c32c89739a33cc761085c6d9aa14d0723d319dafa5/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d36764776793476436376452f586463776e616637587a492f41414141414141414e5a4d2f496f326d6d3853586a6d5556436f363062794f6e2d58704c55706e35346e697a41434c63424741735948512f73313630302f696d616765312e676966)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrnassersaad" alt="amrnassersaad" /></a> </p>
 
