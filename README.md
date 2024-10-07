@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amr Nasser</h1>
 <h3 align="center"> 🤖 I'm An Android Developer  </h3>
 
-![I'm Native Android Developer (Kotlin).](https://camo.githubusercontent.com/893b90dbb78a8226c44ae9c32c89739a33cc761085c6d9aa14d0723d319dafa5/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d36764776793476436376452f586463776e616637587a492f41414141414141414e5a4d2f496f326d6d3853586a6d5556436f363062794f6e2d58704c55706e35346e697a41434c63424741735948512f73313630302f696d616765312e676966)
+![I'm Native Android Developer (Kotlin).]
+![download](https://github.com/user-attachments/assets/52ce9212-1449-49ae-b8a0-15a0ab5e6898)
+
 
 #### 💬 I'm a dedicated and passionate Computer Science student. As a skilled native Android developer proficient in Kotlin, I stay consistently updated with the latest advancements in technology.
 
