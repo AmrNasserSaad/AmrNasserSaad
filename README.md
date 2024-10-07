@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amr Nasser</h1>
 <h3 align="center"> 🤖 I'm An Android Developer  </h3>
 
-![I'm Native Android Developer (Kotlin).]
 ![download](https://github.com/user-attachments/assets/52ce9212-1449-49ae-b8a0-15a0ab5e6898)
 
 
-#### 💬 I'm a dedicated and passionate Computer Science student. As a skilled native Android developer proficient in Kotlin, I stay consistently updated with the latest advancements in technology.
+#### 💬 I'm a dedicated and passionate Computer Science student. As a skilled native Android developer proficient in Kotlin, I stay consistently updated with the latest technological advancements.
 
 
 ## Connect with me : 
